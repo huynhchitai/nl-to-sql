@@ -319,14 +319,14 @@ export default function HowItWorks() {
           </p>
           <p className="text-xs font-mono" style={{ color: 'var(--crt-text-muted)' }}>
             <a
-              href="https://github.com/0CCHacker"
+              href="https://github.com/huynhchitai"
               style={{ color: 'var(--crt-text-muted)' }}
             >
               huynhchitai.com
             </a>
             <span className="mx-2">·</span>
             <a
-              href="https://github.com/0CCHacker"
+              href="https://github.com/huynhchitai"
               style={{ color: 'var(--crt-text-muted)' }}
             >
               github

@@ -22,11 +22,11 @@ export const metadata: Metadata = {
   description:
     'Describe a query in plain English — get safe, read-only SQL for your schema. Powered by Gemini 2.5 Flash.',
   keywords: ['SQL', 'natural language', 'AI', 'database', 'query generation', 'Gemini'],
-  authors: [{ name: 'Tai Huynh', url: 'https://github.com/0CCHacker' }],
+  authors: [{ name: 'Tai Huynh', url: 'https://github.com/huynhchitai' }],
   openGraph: {
     title: 'NL → SQL',
     description: 'Describe a query in plain English — get safe, read-only SQL for your schema.',
-    url: 'https://github.com/0CCHacker',
+    url: 'https://github.com/huynhchitai',
     siteName: 'Tai Huynh',
     type: 'website',
   },

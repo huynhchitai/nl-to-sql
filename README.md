@@ -2,7 +2,7 @@
 
 > Describe a query in plain English — get safe, read-only SQL for your schema.
 
-> Portfolio Project #10 — [Tai Huynh](https://github.com/0CCHacker)
+> Portfolio Project #10 — [Tai Huynh](https://github.com/huynhchitai)
 
 Paste your database schema (DDL or a plain-English table description), pick a SQL dialect, and ask a question. The app generates a single read-only SELECT query, explains it, lists the tables touched, and runs a heuristic safety analyzer that flags anything that isn't a safe SELECT. **It never executes SQL.**
 

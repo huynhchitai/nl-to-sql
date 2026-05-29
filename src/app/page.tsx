@@ -74,7 +74,7 @@ export default function HomePage() {
               how it works →
             </Link>
             <a
-              href="https://github.com/0CCHacker"
+              href="https://github.com/huynhchitai"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors"
@@ -118,7 +118,7 @@ export default function HomePage() {
           </p>
           <p className="text-xs font-mono" style={{ color: 'var(--crt-text-muted)' }}>
             <a
-              href="https://github.com/0CCHacker"
+              href="https://github.com/huynhchitai"
               className="hover:text-amber-500 transition-colors"
               style={{ color: 'var(--crt-text-muted)' }}
             >
@@ -126,7 +126,7 @@ export default function HomePage() {
             </a>
             <span className="mx-2">·</span>
             <a
-              href="https://github.com/0CCHacker"
+              href="https://github.com/huynhchitai"
               className="transition-colors"
               style={{ color: 'var(--crt-text-muted)' }}
             >
